@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "vuepress blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teaho2015-blog/vuepress-blog.git"
+  },
+  "author": "teaho2015",
+  "license": "Apache License v2.0",
+  "bugs": {
+    "url": "https://github.com/teaho2015-blog/vuepress-blog/issues"
+  },
+  "homepage": "https://github.com/teaho2015-blog/vuepress-blog#readme"
+}
